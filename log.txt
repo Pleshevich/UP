@@ -1,0 +1,4 @@
+Author: Lena <elena_ple@mail.ru>
+Date:   Mon Feb 22 20:44:48 2016 +0200
+
+    Add .gitignore
