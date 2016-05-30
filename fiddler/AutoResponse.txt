@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Date: Mon, 04 Apr 2016 16:30:43 GMT
+Access-control-allow-origin: *
+Content-length: 128
+
+{"messages":[526994332073 [max]: test 01:10:52 19.03.2016,526998888073 [user1]: i'm user1 01:12:52 19.03.2016],"token":"TN27EN"}

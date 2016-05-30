@@ -1,0 +1,14 @@
+POST http://192.168.0.104:3001/chat HTTP/1.1
+User-Agent: Composer
+Host: 192.168.0.104:3001
+Content-Type: application/json
+Content-Length: 77
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate, sdch
+Connection: Keep-Alive
+
+{"id":526994332073,"text":"test ","author":"max","timestamp":"1458339052458"}
+HTTP/1.1 200 OK
+Date: Mon, 04 Apr 2016 16:03:24 GMT
+Access-control-allow-origin: *
+Content-Length: 0
